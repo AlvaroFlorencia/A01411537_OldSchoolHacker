@@ -1,0 +1,5 @@
+money
+coin
+dollar
+budget
+inversion
